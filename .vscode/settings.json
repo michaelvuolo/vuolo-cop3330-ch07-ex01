@@ -9,6 +9,8 @@
         "system_error": "cpp",
         "xtr1common": "cpp",
         "stdexcept": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp"
     }
 }
